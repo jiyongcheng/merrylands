@@ -1,3 +1,6 @@
 theme: jekyll-theme-leap-day
 gems:
   - jekyll-maps
+maps:
+  google:
+    api_key: <YOUR_KEY>

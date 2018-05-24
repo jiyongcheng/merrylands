@@ -36,6 +36,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-location:
-  latitude: 51.5285582
-  longitude: -0.2416807
+<iframe
+  width="600"
+  height="450"
+  frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDS_WZgUMCYmudcIoSU7NoiFgP9Ls0tckE
+    &q=Space+Needle,Seattle+WA" allowfullscreen>
+</iframe>

@@ -1,6 +1,1 @@
 theme: jekyll-theme-leap-day
-gems:
-  - jekyll-maps
-maps:
-  google:
-    api_key: AIzaSyDS_WZgUMCYmudcIoSU7NoiFgP9Ls0tckE

@@ -3,4 +3,4 @@ gems:
   - jekyll-maps
 maps:
   google:
-    api_key: <YOUR_KEY>
+    api_key: AIzaSyDS_WZgUMCYmudcIoSU7NoiFgP9Ls0tckE

@@ -24,10 +24,11 @@ Merrylands is in the state of New South Wales. AUSTRALIA. Postcode 2160. Suburb 
 - On 22 May 2004, celebrated 100 years continuity of a church belonging to Christ in Merrylands. 
 
 ### Find us through google map
+<div class="resp-container">
 <iframe
-  width="600"
-  height="450"
+  class="resp-iframe"
   frameborder="0" style="border:0"
   src="https://www.google.com/maps/embed/v1/place?key={{ site.google_map_api}}
     &q=place_id:ChIJp-Up-Sq9EmsR9Ol71S3l_MM" allowfullscreen>
 </iframe>
+</div>
